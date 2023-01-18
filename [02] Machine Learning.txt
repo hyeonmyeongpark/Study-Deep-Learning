@@ -1,0 +1,71 @@
+
+==========================
+ Machine Learning
+==========================
+
+# 목차 
+
+  - Required Prerequisite : Required Prerequisite.txt
+  - 데이터 분석 개요      : 데이터 분석 개요.txt  
+  - 환경 설정             : 환경 설정.txt
+  - Dataset Loading       : dataset_loading_서브노트.txt
+  - scikit-learn 이해     : scikit-learn_서브노트.txt
+  - Data Preprocessing    : Data Preprocessing.txt
+  - Regression            : Regression.txt
+  - Classification        : Classification.txt
+  - Clustring             : Clustring.txt
+
+  ** Flask를 활용한 머신러닝 모델 배포 
+
+     Deploy Machine Learning Model using Flask.txt
+
+
+# 교재
+
+  - 머신러닝을 이용한 데이터 분석
+    http://www.yes24.com/Product/Goods/103529127
+
+  - ...
+
+
+=========================================
+ Machine Learning Crash Course
+=========================================
+
+# 과정 -> 단기 집중 과정
+
+  https://developers.google.com/machine-learning/crash-course
+
+  -> 필수사항 및 사전 작업
+  -> ML 개념
+  -> ML 엔지니어링
+  -> 실생활에서의 ML 시스템
+
+# 과정 -> 문제 프레이밍
+
+  https://developers.google.com/machine-learning/problem-framing
+
+# 과정 -> 데이터 준비
+
+  https://developers.google.com/machine-learning/data-prep
+
+# 과정 -> 클러스터링
+
+  https://developers.google.com/machine-learning/clustering
+
+# 과정 -> 추천 시스템
+
+  https://developers.google.com/machine-learning/recommendation
+
+# 실습 -> 이미지 분류
+
+  https://developers.google.com/machine-learning/practica
+
+# 가이드 -> ML 규칙 및 텍스트 분류
+
+  https://developers.google.com/machine-learning/guides
+
+# 용어집
+
+  https://developers.google.com/machine-learning/glossary
+

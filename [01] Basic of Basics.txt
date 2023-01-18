@@ -1,0 +1,148 @@
+
+============================
+ Basic of Basics
+============================
+
+# 프로그래밍 개념 이해
+
+  - Program이란? 
+
+    해야 할 일을 미리 기술해 놓은 것
+
+
+  - Programming?
+
+    인간의 언어 
+
+      ↓  번역(프로그래머)
+
+    프로그래밍 언어 : C, C++, Java, Python, SQL, ..., HTML, ...
+
+      ↓  번역(software : compiler, interpreter, ...)
+
+    기계어 
+
+
+  - List of programming languages 
+
+    https://en.wikipedia.org/wiki/List_of_programming_languages
+
+    -> Alphabetical
+    -> Categorical
+    -> Chronological
+    -> Generational
+
+
+  - Interpreted vs Compiled Programming Languages
+   
+    https://guide.freecodecamp.org/computer-science/compiled-versus-interpreted-languages/
+
+
+# (현시점에서 인간이) 정말 인공지능을 만들 수 있을까?
+
+  - Negative, 왜냐하면 생각 및 지능이 무엇인지 정확히 모르기때문
+ 
+  -> 그러면 우리는 무엇을 할 수 있는가?
+
+     생각하는 것처럼 보이는 무언가를 만들 수 있는 단계임
+
+
+# 자주 사용하는 기호의 영어 표현
+
+    [ : braket
+    { : brace
+    ( : parentheses
+    > : angle braket
+
+
+# 모두 그릇이다
+
+  - variable  ≒ 그릇 
+  - constant  ≒ 그릇  -> https://blog.naver.com/gseducation/222782468888
+  - parameter ≒ 그릇
+
+
+# Data
+
+  - Data ≒ 자료, 자산, 경험, ...
+
+  - Data vs Information
+
+  - Data, Datum
+  - Data Analysis = 데이터 분석(分析) 
+  - Data Mining
+  - Data Modeling
+
+  - Database, Data Warehouse, Data Mart -> https://docs.oracle.com/en/database/oracle/oracle-database/21/dwhsg/introduction-data-warehouse-concepts.html#GUID-A53F7799-A01E-42F2-9B75-189D773479C5 
+    Data Lake, Data Store, Data Dam, ...
+
+  - Data Type      : 자료형,   데이터형,   ... vs Duck Typing
+  - Data Sturcture : 자료구조, 데이터구조, ...
+
+
+# Digital vs Analog
+
+  https://www.mathsisfun.com/data/analog-digital.html
+
+  -> Python Data Science Handbook
+
+     - https://jakevdp.github.io/PythonDataScienceHandbook/
+     - https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html
+
+
+# 집합적 사고
+
+  - R
+  - SQL
+  - NumPy
+  - pandas
+  - ...
+
+
+# 확률변수 
+
+  - Random Variable : https://www.mathsisfun.com/data/random-variables.html
+
+
+# Cloud
+
+  - IaaS, PaaS, SaaS, DBaaS, MLaaS, AIaaS, ...
+  - EaaS, RaaS, HaaS, ...
+ 
+ 
+# 이런 저런 이야기
+
+  - 300
+
+  - love, romatic
+
+    사랑 ≒ 설레임 ≒ 탐욕
+    사랑 ≒ 헌신   ≠ 탐욕
+    사랑 ≒ 용서   ≠ 탐욕
+    사랑 ≒ ...    ≠ 탐욕
+
+  - 듣는다 -> 잊어버린다
+    본다   -> 기억한다
+    행한다 -> 이해한다, 변화한다 
+
+  - Vision? Mission?
+
+    Your vision of a future situation or society is 
+    what you imagine or hope it would be like, 
+    if things were very different from the way they are now.
+
+    If you say that you have a mission, you mean that 
+    you have a strong commitment and sense of duty 
+    to do or achieve something.
+
+
+
+
+
+
+
+
+
+
+
+
